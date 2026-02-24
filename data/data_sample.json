@@ -1,0 +1,109 @@
+{
+  "features": [
+    {
+      "name": "CheckingStatus",
+      "sample_value": "0_to_200",
+      "description": "Balance in checking account (in DM - Deutsche Marks)"
+    },
+    {
+      "name": "LoanDuration",
+      "sample_value": 31,
+      "description": "Duration of loan in months"
+    },
+    {
+      "name": "CreditHistory",
+      "sample_value": "credits_paid_to_date",
+      "description": "Applicant's past credit repayment behavior"
+    },
+    {
+      "name": "LoanPurpose",
+      "sample_value": "other",
+      "description": "Reason for taking the loan"
+    },
+    {
+      "name": "LoanAmount",
+      "sample_value": 1889,
+      "description": "Amount of loan requested"
+    },
+    {
+      "name": "ExistingSavings",
+      "sample_value": "100_to_500",
+      "description": "Balance in savings account (in DM)"
+    },
+    {
+      "name": "EmploymentDuration",
+      "sample_value": "less_1",
+      "description": "How long applicant has been employed (in years)"
+    },
+    {
+      "name": "InstallmentPercent",
+      "sample_value": 3,
+      "description": "Installment rate as percentage of disposable income"
+    },
+    {
+      "name": "Sex",
+      "sample_value": "female",
+      "description": "Gender of the applicant"
+    },
+    {
+      "name": "OthersOnLoan",
+      "sample_value": "none",
+      "description": "Whether there are co-applicants or guarantors on the loan"
+    },
+    {
+      "name": "CurrentResidenceDuration",
+      "sample_value": 3,
+      "description": "How long applicant has lived at current residence (in years)"
+    },
+    {
+      "name": "OwnsProperty",
+      "sample_value": "savings_insurance",
+      "description": "Type of property or assets owned by applicant"
+    },
+    {
+      "name": "Age",
+      "sample_value": 32,
+      "description": "Age of the applicant in years"
+    },
+    {
+      "name": "InstallmentPlans",
+      "sample_value": "none",
+      "description": "Whether applicant has other installment plans (stores, bank, none)"
+    },
+    {
+      "name": "Housing",
+      "sample_value": "own",
+      "description": "Type of housing the applicant lives in (own, rent, free)"
+    },
+    {
+      "name": "ExistingCreditsCount",
+      "sample_value": 1,
+      "description": "Number of existing credits the applicant has at this bank"
+    },
+    {
+      "name": "Job",
+      "sample_value": "skilled",
+      "description": "Employment skill level of the applicant"
+    },
+    {
+      "name": "Dependents",
+      "sample_value": 1,
+      "description": "Number of people financially dependent on the applicant"
+    },
+    {
+      "name": "Telephone",
+      "sample_value": "none",
+      "description": "Whether applicant has a registered telephone number"
+    },
+    {
+      "name": "ForeignWorker",
+      "sample_value": "yes",
+      "description": "Whether the applicant is a foreign worker"
+    },
+    {
+      "name": "Risk",
+      "sample_value": "No Risk",
+      "description": "TARGET LABEL — Whether the applicant is a credit risk or not"
+    }
+  ]
+}
